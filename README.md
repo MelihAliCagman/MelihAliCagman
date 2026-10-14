@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/melih-ali-%C3%A7-53aaab1b2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://komarev.com/ghpvc/?username=MelihAliCagman&label=Profil+Goruntuleme&color=6C3483&style=for-the-badge" alt="Profil görüntüleme">
 </p>
 
 ---

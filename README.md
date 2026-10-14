@@ -15,16 +15,13 @@
 
 - 🎓 Gazi Üniversitesi, Bilgisayar Mühendisliği
 - 📡 İlgi alanlarım: ağ iletişimi, hata düzeltme kodları, graf algoritmaları, rota planlama
-- 🛠️ Şu an: C++ ile ağ ve simülasyon projeleri, Python ile veri / ağ analizi, Flutter ile mobil uygulama geliştiriyorum
+- 🛠️ Şu an: C++ ile ağ ve simülasyon projeleri, Python ile veri / ağ analizi ve sinyal işleme projeleri geliştiriyorum
 - 🎯 Hedef: Yazılım mühendisliğinde sağlam temelli, test edilmiş ve belgelenmiş projeler üretmek
 
 ## 🧰 Teknolojiler
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/NetworkX-4B8BBE?style=flat-square)
@@ -37,15 +34,14 @@
 | [**meshfec**](https://github.com/MelihAliCagman/meshfec) | Taktik mesh ağlar için UDP üzerinde Reed-Solomon FEC ile kayba dayanıklı veri iletimi | C++17 |
 | [**cfar-radar-pipeline**](https://github.com/MelihAliCagman/cfar-radar-pipeline) | Radar sinyal işleme hattı: darbe sıkıştırma, range-Doppler FFT, CA/OS-CFAR hedef tespiti, Monte Carlo Pd/Pfa değerlendirmesi | C++17 |
 | [**SafeRoute3D-Cpp**](https://github.com/MelihAliCagman/SafeRoute3D-Cpp) | Afet bölgesi otonom araç rota planlama simülasyonu: Dijkstra, öncelik kuyruğu, 3B arayüz | C++, React Three Fiber |
-| [**ogrenme-asistani**](https://github.com/MelihAliCagman/ogrenme-asistani) | YKS öğrencileri için Gemini destekli çalışma asistanı: kelime haritası, testler, fotoğraftan soru çözme | Flutter, Firebase, Gemini |
 
-Ayrıca: [HarryPotterGraph](https://github.com/MelihAliCagman/HarryPotterGraph) (Python, NetworkX): Harry Potter karakter ağının graf teorisiyle analizi.
+Ayrıca: [ogrenme-asistani](https://github.com/MelihAliCagman/ogrenme-asistani) (Flutter, yapay zekâ destekli geliştirilen YKS çalışma asistanı denemesi) ve [HarryPotterGraph](https://github.com/MelihAliCagman/HarryPotterGraph) (Python, NetworkX): Harry Potter karakter ağının graf teorisiyle analizi.
 
 ## 📊 GitHub İstatistikleri
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=MelihAliCagman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub istatistikleri">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelihAliCagman&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&langs_count=6" alt="En çok kullanılan diller">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelihAliCagman&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,dart&langs_count=6" alt="En çok kullanılan diller">
 </p>
 
 ---

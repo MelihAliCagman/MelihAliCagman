@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Merhaba, ben Melih Ali 👋</h1>
 
-<!--
-**MelihAliCagman/MelihAliCagman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Gazi Üniversitesi Bilgisayar Mühendisliği öğrencisi<br>
+  Ağ iletişimi, algoritmalar ve veri odaklı uygulamalar üzerine çalışıyorum.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/melih-ali-%C3%A7-53aaab1b2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://komarev.com/ghpvc/?username=MelihAliCagman&label=Profil+Goruntuleme&color=6C3483&style=for-the-badge" alt="Profil görüntüleme">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 Hakkımda
+
+- 🎓 Gazi Üniversitesi, Bilgisayar Mühendisliği
+- 📡 İlgi alanlarım: ağ iletişimi, hata düzeltme kodları, graf algoritmaları, rota planlama
+- 🛠️ Şu an: C++ ile ağ ve simülasyon projeleri, Python ile veri / ağ analizi, Flutter ile mobil uygulama geliştiriyorum
+- 🎯 Hedef: Yazılım mühendisliğinde sağlam temelli, test edilmiş ve belgelenmiş projeler üretmek
+
+## 🧰 Teknolojiler
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-4B8BBE?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## 🚀 Öne Çıkan Projeler
+
+| Proje | Açıklama | Teknoloji |
+|---|---|---|
+| [**meshfec**](https://github.com/MelihAliCagman/meshfec) | Taktik mesh ağlar için UDP üzerinde Reed-Solomon FEC ile kayba dayanıklı veri iletimi | C++17 |
+| [**SafeRoute3D-Cpp**](https://github.com/MelihAliCagman/SafeRoute3D-Cpp) | Afet bölgesi otonom araç rota planlama simülasyonu: Dijkstra, öncelik kuyruğu, 3B arayüz | C++, React Three Fiber |
+| [**ogrenme-asistani**](https://github.com/MelihAliCagman/ogrenme-asistani) | YKS öğrencileri için Gemini destekli çalışma asistanı: kelime haritası, testler, fotoğraftan soru çözme | Flutter, Firebase, Gemini |
+| [**HarryPotterGraph**](https://github.com/MelihAliCagman/HarryPotterGraph) | Harry Potter karakter ağının graf teorisiyle analizi: merkezilik, topluluk tespiti, dayanıklılık, yapısal denge | Python, NetworkX |
+
+## 📊 GitHub İstatistikleri
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MelihAliCagman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub istatistikleri">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelihAliCagman&layout=compact&theme=tokyonight&hide_border=true" alt="En çok kullanılan diller">
+</p>
+
+---
+
+<p align="center"><i>Merak ettiğiniz bir şey olursa LinkedIn üzerinden ulaşabilirsiniz.</i></p>

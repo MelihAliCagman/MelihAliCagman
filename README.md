@@ -41,7 +41,7 @@ Ayrıca: [ogrenme-asistani](https://github.com/MelihAliCagman/ogrenme-asistani) 
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=MelihAliCagman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub istatistikleri">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelihAliCagman&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,dart&langs_count=6" alt="En çok kullanılan diller">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelihAliCagman&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,dart&exclude_repo=ogrenme-asistani&langs_count=6" alt="En çok kullanılan diller">
 </p>
 
 ---

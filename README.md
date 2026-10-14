@@ -35,15 +35,17 @@
 | Proje | Açıklama | Teknoloji |
 |---|---|---|
 | [**meshfec**](https://github.com/MelihAliCagman/meshfec) | Taktik mesh ağlar için UDP üzerinde Reed-Solomon FEC ile kayba dayanıklı veri iletimi | C++17 |
+| [**cfar-radar-pipeline**](https://github.com/MelihAliCagman/cfar-radar-pipeline) | Radar sinyal işleme hattı: darbe sıkıştırma, range-Doppler FFT, CA/OS-CFAR hedef tespiti, Monte Carlo Pd/Pfa değerlendirmesi | C++17 |
 | [**SafeRoute3D-Cpp**](https://github.com/MelihAliCagman/SafeRoute3D-Cpp) | Afet bölgesi otonom araç rota planlama simülasyonu: Dijkstra, öncelik kuyruğu, 3B arayüz | C++, React Three Fiber |
 | [**ogrenme-asistani**](https://github.com/MelihAliCagman/ogrenme-asistani) | YKS öğrencileri için Gemini destekli çalışma asistanı: kelime haritası, testler, fotoğraftan soru çözme | Flutter, Firebase, Gemini |
-| [**HarryPotterGraph**](https://github.com/MelihAliCagman/HarryPotterGraph) | Harry Potter karakter ağının graf teorisiyle analizi: merkezilik, topluluk tespiti, dayanıklılık, yapısal denge | Python, NetworkX |
+
+Ayrıca: [HarryPotterGraph](https://github.com/MelihAliCagman/HarryPotterGraph) (Python, NetworkX): Harry Potter karakter ağının graf teorisiyle analizi.
 
 ## 📊 GitHub İstatistikleri
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=MelihAliCagman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub istatistikleri">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelihAliCagman&layout=compact&theme=tokyonight&hide_border=true" alt="En çok kullanılan diller">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelihAliCagman&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&langs_count=6" alt="En çok kullanılan diller">
 </p>
 
 ---

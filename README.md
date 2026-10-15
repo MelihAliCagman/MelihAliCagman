@@ -14,7 +14,7 @@
 ## 🧑‍💻 Hakkımda
 
 - 🎓 Gazi Üniversitesi, Bilgisayar Mühendisliği
-- 📡 İlgi alanlarım: ağ iletişimi, hata düzeltme kodları, graf algoritmaları, rota planlama
+- 📡 İlgi alanlarım: ağ iletişimi, hata düzeltme kodları, graf algoritmaları, rota planlama, İHA yer kontrol sistemleri
 - 🛠️ Şu an: C++ ile ağ ve simülasyon projeleri, Python ile veri / ağ analizi ve sinyal işleme projeleri geliştiriyorum
 - 🎯 Hedef: Yazılım mühendisliğinde sağlam temelli, test edilmiş ve belgelenmiş projeler üretmek
 
@@ -23,6 +23,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/NetworkX-4B8BBE?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -32,8 +33,9 @@
 | Proje | Açıklama | Teknoloji |
 |---|---|---|
 | [**meshfec**](https://github.com/MelihAliCagman/meshfec) | Taktik mesh ağlar için UDP üzerinde Reed-Solomon FEC ile kayba dayanıklı veri iletimi | C++17 |
+| [**SafeRoute3D-Cpp**](https://github.com/MelihAliCagman/SafeRoute3D-Cpp) | Afet bölgesi otonom araç rota planlama simülasyonu: C++ backend (min-heap Dijkstra, öncelik kuyruğu, stack, BST) ve React Three Fiber ile 3B arayüz | C++, React Three Fiber |
 | [**cfar-radar-pipeline**](https://github.com/MelihAliCagman/cfar-radar-pipeline) | Radar sinyal işleme hattı: darbe sıkıştırma, range-Doppler FFT, CA/OS-CFAR hedef tespiti, Monte Carlo Pd/Pfa değerlendirmesi | C++17 |
-| [**SafeRoute3D-Cpp**](https://github.com/MelihAliCagman/SafeRoute3D-Cpp) | Afet bölgesi otonom araç rota planlama simülasyonu: Dijkstra, öncelik kuyruğu, 3B arayüz | C++, React Three Fiber |
+| [**uav-gcs-simulator**](https://github.com/MelihAliCagman/uav-gcs-simulator) | İHA yer kontrol istasyonu ve çoklu İHA telemetri simülatörü: failsafe, geofence, PostgreSQL, React/Leaflet | C++20, PostgreSQL, React |
 
 Ayrıca: [ogrenme-asistani](https://github.com/MelihAliCagman/ogrenme-asistani) (Flutter, yapay zekâ destekli geliştirilen YKS çalışma asistanı denemesi) ve [HarryPotterGraph](https://github.com/MelihAliCagman/HarryPotterGraph) (Python, NetworkX): Harry Potter karakter ağının graf teorisiyle analizi.
 
